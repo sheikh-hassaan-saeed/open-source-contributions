@@ -29,4 +29,4 @@ Hi, I'm Sheikh Hassaan Saeed — a self-motivated learner contributing to real-w
 
 ## 📌 Why This Repo Exists
 
-This repository documents my open-source contributions — both real-world PRs and structured projects from my Git learning journey. 
+This repository documents my open-source contributions — both real-world PRs and structured projects from my Git learning journey while keeping things clean and organized. 
