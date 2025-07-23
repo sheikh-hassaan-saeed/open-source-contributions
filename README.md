@@ -14,7 +14,7 @@
 
 ## 🧪 Course-Based Project
 
-### 🔹 [IBM Git & GitHub Final Project](https://github.com/sheikh-hassaan-saeed/jbbmo-Introduction-to-Git-and-GitHub)
+### 🔸 [IBM Git & GitHub Final Project](https://github.com/sheikh-hassaan-saeed/jbbmo-Introduction-to-Git-and-GitHub)
 > Final assignment for IBM’s “Introduction to Git and GitHub” course (Coursera).
 - Created a full open-source-ready repo: `simple-interest.sh` + documentation
 - Included `README.md`, `LICENSE`, `CONTRIBUTING.md`, and `CODE_OF_CONDUCT.md`
