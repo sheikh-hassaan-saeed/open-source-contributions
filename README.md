@@ -1,5 +1,3 @@
-# open-source-contributions
-
 # 🌍 Open Source Contributions by Sheikh Hassaan Saeed
 
 ---
