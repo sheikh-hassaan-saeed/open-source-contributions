@@ -2,8 +2,6 @@
 
 # 🌍 Open Source Contributions by Sheikh Hassaan Saeed
 
-Hi, I'm Sheikh Hassaan Saeed — a self-motivated learner contributing to real-world open-source projects while mastering Git and GitHub workflows.
-
 ---
 
 ## ✅ Public Pull Requests
