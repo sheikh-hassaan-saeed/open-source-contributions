@@ -25,4 +25,4 @@
 
 ## 📌 Why This Repo Exists
 
-This repository documents my open-source contributions — both real-world PRs and structured projects from my Git learning journey while keeping things clean and organized. 
+This repository documents my open-source contributions — both real-world PRs and structured projects from my Git learning journey, while keeping things organized. 
